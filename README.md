@@ -7,7 +7,7 @@ This repository tracks my progress as I transition from customer service into te
 - [ ] Learn to use Browser Developer Tools (Network & Console tabs)
 - [ ] Make API requests using Postman
       
-- [ ] ## 📅 Month 2 Goals: Databases & Logs
+## 📅 Month 2 Goals: Databases & Logs
 - [ ] Master basic SQL queries (SELECT, WHERE, JOIN)
 - [ ] Learn basic Linux terminal navigation commands
 - [ ] Practice analyzing server log files
